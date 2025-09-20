@@ -1,0 +1,15 @@
+# テスト用のファイル
+*.webp
+*.gif
+*.mp4
+gif_list.txt
+
+# システムファイル
+.DS_Store
+Thumbs.db
+
+# エディタの一時ファイル
+.vscode/
+.idea/
+*.swp
+*~
